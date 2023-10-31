@@ -6,8 +6,6 @@ There is a very interesting resource that will help us in this matter. As we kno
 
 And we will use the resource of https://archive.org
 
-Go to this site and search for the site you are looking for, namely https://typora.io
-
 Go to this site and type the site you are looking for in the search, namely https://typora.io
 
 ![image-20231031135934009](./README.assets/image-20231031135934009.png)
